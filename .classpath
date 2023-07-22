@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="day01/searching/src"/>
+	<classpathentry kind="src" path="day01/sorting/src"/>
+	<classpathentry kind="src" path="Day02/expression/src"/>
+	<classpathentry kind="src" path="Day02/linkedlist/src"/>
+	<classpathentry kind="src" path="Day02/stack/src"/>
+	<classpathentry kind="src" path="day03/doublylist/src"/>
+	<classpathentry kind="src" path="day03/singlycircularlist/src"/>
+	<classpathentry kind="src" path="day03/singlylist/src"/>
+	<classpathentry kind="src" path="day04/expression/src"/>
+	<classpathentry kind="src" path="day04/linkedlist/src"/>
+	<classpathentry kind="src" path="day04/stack/src"/>
+	<classpathentry kind="src" path="day05/circularqueue/src"/>
+	<classpathentry kind="src" path="day05/expression/src"/>
+	<classpathentry kind="src" path="day05/linearqueue/src"/>
+	<classpathentry kind="src" path="day05/priorityqueue/src"/>
+	<classpathentry kind="src" path="day06/bstree/src"/>
+	<classpathentry kind="src" path="day06/hashtable/src"/>
+	<classpathentry kind="src" path="Day1"/>
+	<classpathentry kind="src" path="Queue2/src"/>
+	<classpathentry kind="output" path="Day02/expression/bin"/>
+</classpath>
